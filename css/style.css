@@ -1,0 +1,587 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.big-container {
+    width: 1500px;
+    margin: 0 auto;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Circular Std';
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.nav-qism {
+    background: radial-gradient(100% 100% at 50% 0%, #504A93 0%, #413E65 100%);
+}
+.nav-link {
+    padding: 10px;
+    color: #fff;
+}
+.hover {
+    margin-top: 10px;
+}
+.hover:hover {
+    color: #F04037;
+}
+.after::after {
+    mask-image: url(../img/icon-1.png);
+}
+.nav-hiding {
+    padding: 20px;
+}
+.tepa-qism {
+    display: flex;
+    position: relative;
+}
+.tepa-qism-text {
+    margin-top: 200px;
+}
+.tepa-qism img {
+    margin-top: 80px;
+    left: 300px;
+    max-width: 1100px;
+    position: absolute;
+}
+.tepa-qism-text h2 {
+    width: 600px;
+    font-size: 80px;
+    line-height: 84px;
+    letter-spacing: -2.50105px;
+    color: #FFFFFF;
+}
+.tepa-qism-text p {
+    width: 600px;
+    font-size: 21px;
+    padding-top: 20px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: rgba(255, 255, 255, 0.7);
+    padding-bottom: 40px;
+}
+.nav-link-1 {
+  
+    display: inline;
+    padding: 15px 25px;
+    background-color: #F04037;
+    color: #fff;
+    border: 1px solid #C31A12;
+    border-radius: 5px; 
+    transition: background, color 0.5s ease;   
+}
+.nav-link-1:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #FFF;
+}
+.nav-link-2 {
+    display: block;
+    margin-top: 20px;
+    padding-bottom: 180px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.437684px;
+    color: rgba(255, 255, 255, 0.7);
+    width: 200px;
+    transition: underline, 1s ease;
+}
+.nav-link-2:hover {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: underline;
+}
+.border-1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    background: #F04037;
+    border: 1px solid #C31A12;
+    border-radius: 5px;
+    padding: 10px 15px;
+    transition: background, color 0.5s ease;
+}
+.border-1:hover {
+    background-color: #FFFFFF;
+    color: black;
+}
+/* section tugadi */
+.tepa-davomi ul {
+    display: flex;
+    margin-top: 80px;
+}
+.tepa-davomi li {
+    width: 450px;
+    margin-right: 70px;
+}
+.tepa-davomi img {
+    padding-bottom: 30px;
+}
+.tepa-davomi h4 {
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.750316px;
+    color: #19191B;
+}
+.tepa-davomi p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.500211px;
+    color: #696871;
+}
+.tepa-davomi-img {
+    border-top: 1px solid #EAE9F2;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+.tepa-davomi-img img {
+    margin-left: 10px;
+    padding-right: 90px;
+    transition: filter 1s ease;
+    filter: grayscale(100%);
+}
+.tepa-davomi-img img:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+}
+/* section tugatili */
+.pro-uchun-malumot {
+    margin-top: 20px;
+    background: #F7F7FB;
+    background-image: url(../img/big-img1.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position: right center;
+}
+.pro-reklama {
+    padding-top: 220px;
+}
+.pro-reklama h1 {
+    margin-bottom: 20px;
+    width: 600px;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+}
+.pro-text {
+    margin-top: 20px;
+    width: 540px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.pro-list {
+    margin-top: 50px;
+    display: flex;
+    padding-bottom: 190px;
+}
+.pro-list li {
+    width: 400px;
+    margin-left: -50px;
+    display: flex;
+}
+.pro-list img {
+    margin-left: -10px;
+    padding: 10px;
+    width: 80px;
+    border-radius: 50%;
+}
+.pro-list p {
+    margin-left: -20px;
+    margin-top: 15px;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: -0.656526px;
+    color: #19191B;
+}
+/* section tugadi */
+.odiy-reklama {
+    display: flex;
+    margin-top: 200px;
+}
+.odiy-reklama-text {
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.odiy-reklama-text h2 {
+    width: 500px;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+}
+.odiy-reklama-text p {
+    width: 530px;
+    margin-top: 20px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.item {
+    margin-top: 40px;
+    display: flex;
+}
+.item img {
+    position: absolute;
+}
+.odiy-reklama-list {
+    margin-left: 60px;
+}
+.odiy-reklama-list p {
+    width: 390px;
+}
+/* section tugatildi */
+.silinderli-qism-section {
+    background: #F7F7FB;
+}
+.silindir-qism-sarlavha {
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 100px;
+}
+.silindir-qism-sarlavha h2 {
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+    font-weight: bolder;
+}
+.silindir-qism-sarlavha p {
+    margin: 0 auto;
+    width: 500px;
+    font-size: 21px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.carusel-qism {
+    margin-bottom: 200px;
+    margin-top: 50px;
+    background: #FFFFFF;
+    box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.102519);
+    border-radius: 10px;
+}
+.silinder-katta {
+    position: absolute;
+    width: 420px;
+    margin-top: -420px;
+    margin-left: 520px;
+}
+.ikki-nuqta {
+    font-size: 80px;
+    color: #5454D4;
+    font-weight: bold;
+}
+.p-10 {
+    padding: 10px;
+}
+.silinder-p {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #19191B;
+}
+.silinder-katta h4 {
+    margin-bottom: -6px;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #19191B;
+}
+.tugma {
+    border-radius: 50%;
+    margin-top: 150px;
+    height: 70px;
+    width: 70px!important;
+    background-color: #000;
+    
+}
+.left {
+    transform: translate(-35px);
+}
+.right {
+    transform: translate(35px);
+}
+/* section tugadi */
+.kichik-reklama {
+    text-align: center;
+    margin-right: 80px;
+    width: 300px;
+}
+.kichik-reklama h2 {
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -1.87579px;
+    color: #5454D4;
+}
+.kichik-reklama p {
+    font-size: 21px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.menu-1 {
+    display: none;
+}
+.kichik-reklama-katta {
+    padding-top: 150px;
+    margin-top: -200px;
+}
+.sell-pro {
+    border-top: 1px solid #EAE9F2;
+    padding-top: 100px;
+    margin-top: 120px;
+}
+.sell-pro-sarlavha {
+    margin: 0 auto;
+}
+.sell-pro-sarlavha h2 {
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+}
+.sell-pro-sarlavha p {
+    margin: 0 auto;
+    width: 520px;
+    font-size: 21px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.pro-active-text-1 {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: right;
+    letter-spacing: -0.562737px;
+    color: #696871;
+    margin-left: 0px;
+}
+.pro-active-check {
+    margin-left: 40px;
+    padding: 3px;
+}
+.pro-active-text-2 {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.562737px;
+    color: #696871;
+}
+.pro-active-text-3 {
+    margin-left: 10px;
+    padding: 8px 20px;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: -0.406421px;
+    color: #FFFFFF;
+    background: #F04037;
+    border-radius: 5px;
+}
+.pro-active-check-1 {
+    width: 30px!important;
+}
+.pro-malumot {
+    cursor: pointer;
+    margin-top: 40px;
+    box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.102519);
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+    width: 500px;
+}
+.pro-turi {
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.500211px;
+    color: #5454D4;
+}
+.pro-narxi {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.517241px;
+    color: #19191B;
+}
+.pro-user {
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.562737px;
+    color: #696871;
+}
+.pro-foydasi img {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 60px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.pro-foydasi p {
+    font-weight: 500;
+    margin-bottom: -6px;
+    font-size: 21px;
+    line-height: 50px;
+    letter-spacing: -0.656526px;
+    color: #19191B;
+}
+.pro-tekin-link { 
+    padding: 15px 0px;
+    background: #5454D4;
+    border-radius: 0px 0px 10px 10px;
+    display: block;
+    margin-top: 50px;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #FFFFFF;
+}
+.pro-tekin-link:hover {
+    color: rgb(19, 18, 18);
+    text-decoration: none;
+}
+/* section tugadi */
+.songi-malumot-qism {
+    background: #19191B;
+    margin-top: -230px;
+    padding-top: 350px;
+}
+.pro-sizga-nima-beradi img {
+    position: absolute;
+    margin-left: -40px;
+}
+.pro-sizga-nima-beradi div {
+    width: 460px;
+    margin-left: 20px;
+}
+.pro-sizga-nima-beradi h4 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.750316px;
+    color: #FFFFFF;
+}
+.pro-sizga-nima-beradi p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.500211px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.margin-top {
+    margin-top: 85px;
+}
+.pro-malumot-qism-paki {
+    margin-top: 100px;
+    text-align: center;
+}
+.pro-malumot-qism-paki h1 {
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -1.87579px;
+    color: #FFFFFF;
+}
+.paski-qism-p {
+    margin: 0 auto;
+    width: 530px;
+    font-size: 21px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #696871;
+    margin-bottom: 50px;
+}
+.pro-malumot-qism-paki a {  
+    padding: 10px 30px; 
+    background: #F0544C;
+    border: 1px solid #C31A12;
+    border-radius: 5px;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    color: #FFFFFF;
+}
+.paski-qism-p-1 {
+    padding-bottom: 100px;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: -0.437684px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.eng-paski {
+    display: flex;
+}
+.eng-paski-2 {
+    display: flex;
+}
+.eng-paski-3 h4 {
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.eng-paski-3 p {
+    padding: 20px;
+    width: 240px;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: -0.500211px;
+    color: #5454D4;
+}
+.eng-paski-3 img {
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.eng-paski-4 {
+    padding: 0px 50px;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.eng-paski-5 {
+    margin-left: -35px;
+    font-weight: 400;
+    margin-top: 25px;
+    font-size: 16px;
+    line-height: 38px;
+    letter-spacing: -0.500211px;
+    color: #19191B;
+}
+.eng-paski-5 li {
+    font-weight: 500;
+    transition: decoration 0.5s ease;
+}
+.eng-paski-5 li:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(42, 42, 196);
+}

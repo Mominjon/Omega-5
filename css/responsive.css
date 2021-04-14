@@ -1,0 +1,1441 @@
+@media (max-width: 1440px) {
+    .tepa-qism img {
+        margin-top: 180px;
+        left: 300px;
+        max-width: 920px;
+        position: absolute;
+    }
+    .big-container {
+        width: 1300px;
+    }
+}
+@media (max-width: 1340px) {
+    .tepa-qism img {
+        margin-top: 150px;
+        left: 320px;
+        max-width: 850px;
+        position: absolute;
+    }
+    .big-container {
+        width: 1200px;
+    }
+}
+@media (max-width: 1240px) {
+    .tepa-qism img {
+        margin-top: 190px;
+        left: 420px;
+        max-width: 750px;
+        position: absolute;
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .big-container {
+        width: 1100px;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 600px;
+        background-position: right center;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 1100px;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 500px;
+        margin-top: 300px;
+        margin-left: 200px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 160px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: -140px; 
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .odiy-reklama-text p {
+        width: 400px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+}
+@media (max-width: 1140px) {
+    .big-container {
+        width: 1000px;
+    }
+    .odiy-reklama-text h2{
+        width: 400px;
+    } 
+    .odiy-reklama-text p {
+        width: 400px;
+    }
+    .odiy-reklama-list p {
+        width: 300px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 500px;
+        margin-top: 300px;
+        margin-left: 200px;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 160px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 400px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: -140px; 
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 1100px;
+    }
+}
+@media (max-width: 1040px) {
+    .big-container {
+        width: 900px;
+    }
+    .odiy-reklama-list {
+        margin-left: -0px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 400px;
+        background-position: right center;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 250px;
+    }
+    
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 500px;
+        margin-top: 300px;
+        margin-left: 200px;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 160px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-sizga-nima-beradi div {
+        width: 300px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: -140px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 1100px;
+    }
+}
+@media (max-width: 990px) {
+    .big-container {
+        width: 800px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 420px;
+        margin-top: 0px;
+        margin-left: 120px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 230px;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 90px;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 100px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 500px;
+        margin-top: 300px;
+        margin-left: 70px;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 160px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: -40px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 900px;
+    }
+}
+@media (max-width: 840px) {
+    .big-container {
+        width: 700px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 420px;
+        margin-top: 0px;
+        margin-left: 120px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 230px;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 90px;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 150px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 250px;
+        margin-top: 300px;
+        margin-left: 70px;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 160px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: -40px; 
+    }
+    .pro-list li {
+        width: 300px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -50px;
+        max-width: 700px;
+    }
+}
+@media (max-width: 760px) {
+    .big-container {
+        width: 600px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 420px;
+        margin-top: 0px;
+        margin-left: 50px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 150px;
+    }
+    #responsive-buzilish-2 {
+        margin-left: -0px!important;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 20px;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 300px;
+        margin-top: 300px;
+        margin-left: -20px;
+    }
+    .tepa-davomi-img img {
+        display: none;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 190px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: 50px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .pro-list li {
+        width: 300px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 700px;
+    }
+}
+@media (max-width: 650px) {
+    .big-container {
+        width: 500px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .tepa-qism-text h2 {
+        width: 550px;
+        font-size: 80px;
+        line-height: 84px;
+        letter-spacing: -2.50105px;
+        color: #FFFFFF;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 420px;
+        margin-top: 0px;
+        margin-left: 50px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 150px;
+    }
+    #responsive-buzilish-2 {
+        margin-left: -0px!important;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    .pro-reklama h1 {
+        width: 500px;
+    }
+    .menu-1 {
+        display: block;
+    }
+    #menu-2 {
+        display: none!important;
+    }
+    #menu-3 {
+        display: flex;
+    }
+    .kichik-reklama-katta {
+        flex-direction: column;
+        padding-top: 150px;
+        margin-top: -200px;
+        margin-left: 80px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 20px;
+    }
+    .odiy-reklama-text h2 {
+        width: 500px;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 300px;
+        margin-top: 300px;
+        margin-left: -20px;
+    }
+    .tepa-qism-text p {
+        width: 500px;
+        margin-left: 30px;
+    }
+    .tepa-davomi-img img {
+        display: none;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 190px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: 50px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .pro-list li {
+        width: 300px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -80px;
+        max-width: 550px;
+    }
+}
+@media (max-width: 560px) {
+    .big-container {
+        width: 400px;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .eng-paski {
+        display: block;
+    }
+    .paski-qism-p {
+        margin: 0 auto;
+        width: 450px;
+        font-size: 21px;
+        line-height: 39px;
+        text-align: center;
+        letter-spacing: -0.656526px;
+        color: #696871;
+        margin-bottom: 50px;
+    }
+    .pro-malumot {
+        cursor: pointer;
+        margin-top: 40px;
+        box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.102519);
+        border-radius: 10px;
+        background-color: #fff;
+        text-align: center;
+        width: 450px;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .tepa-qism-text h2 {
+        margin-left: 20px;
+        width: 450px;
+        font-size: 80px;
+        line-height: 84px;
+        letter-spacing: -2.50105px;
+        color: #FFFFFF;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .eng-paski-2 {
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 420px;
+        margin-top: 0px;
+        margin-left: 50px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 150px;
+    }
+    .sell-pro-sarlavha p {
+        margin: 0 auto;
+        width: 400px;
+        font-size: 21px;
+        line-height: 39px;
+        text-align: center;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    #responsive-buzilish-2 {
+        margin-left: -20px!important;
+    }
+    .pro-text {
+        width: 400px;
+    }
+    .pro-list {
+        margin-top: 50px;
+        display: block;
+        padding-bottom: 190px;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    .pro-reklama {
+        margin-left: 50px;
+    }
+    .pro-reklama h1 {
+        width: 400px;
+    }
+    .menu-1 {
+        display: block;
+    }
+    #menu-2 {
+        display: none!important;
+    }
+    #menu-3 {
+        display: flex;
+    }
+    .kichik-reklama-katta {
+        flex-direction: column;
+        padding-top: 150px;
+        margin-top: -200px;
+        margin-left: 80px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 20px;
+    }
+    .odiy-reklama-text h2 {
+        width: 400px;
+    }
+    .odiy-reklama-list {
+        margin-left: 20px;
+    }
+    .odiy-reklama-list p {
+        width: 390px;
+    }
+    .carusel-qism {
+        display: none;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-davomi ul {
+        text-align: center;
+        display: block;
+        margin-top: 80px;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 300px;
+        margin-top: 300px;
+        margin-left: 0px;
+    }
+    .tepa-qism-text p {
+        width: 450px;
+        margin-left: 30px;
+    }
+    .tepa-davomi-img img {
+        display: none;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 190px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 430px;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .kichik-reklama-katta {
+        margin-top: 0px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: 50px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .pro-list li {
+        width: 300px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .tepa-qism img {
+        margin-top: -200px;
+        left: -150px;
+        max-width: 650px;
+    }
+}
+@media (max-width: 460px) {
+    .big-container {
+        width: 90%;
+    }
+    .odiy-reklama-img {
+        display: none;
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 450px;
+        background-position: right center;
+    }
+    .eng-paski {
+        display: block;
+    }
+    .paski-qism-p {
+        margin: 0 auto;
+        width: 450px;
+        font-size: 21px;
+        line-height: 39px;
+        text-align: center;
+        letter-spacing: -0.656526px;
+        color: #696871;
+        margin-bottom: 50px;
+    }
+    .pro-malumot {
+        cursor: pointer;
+        margin-top: 40px;
+        box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.102519);
+        border-radius: 10px;
+        background-color: #fff;
+        text-align: center;
+        width: 450px;
+    }
+    .pro-sizga-nima-beradi {
+        text-align: center;
+    }
+    .margin-top {
+        margin-top: 0px;
+    }
+    .odiy-reklama {
+        text-align: center;
+        display: block;
+        margin-top: 200px;
+    }
+    .paski-qism-p {
+        width: 90%;
+    }
+    .pro-malumot {
+        cursor: pointer;
+        margin-top: 40px;
+        box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.102519);
+        border-radius: 10px;
+        background-color: #fff;
+        text-align: center;
+        width: 400px;
+    }
+    .silindir-qism-sarlavha p {
+        margin: 0 auto;
+        width: 90%;
+        font-size: 21px;
+        line-height: 39px;
+        text-align: center;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-qism-text h2 {
+        margin-left: 20px;
+        width: 90%;
+        font-size: 80px;
+        line-height: 84px;
+        letter-spacing: -2.50105px;
+        color: #FFFFFF;
+    }
+    .eng-paski {
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+    }
+    .eng-paski-2 {
+        display: block;
+    }
+    .carusel-argenal {
+        height: 400px;
+    }
+    .silinder-katta {
+        position: relative;
+        width: 90%;
+        margin-top: 0px;
+        margin-left: 50px;
+
+    }
+    .carusel-argenal img {
+        display: none;
+    }
+    .eng-paski-3 p {
+        padding: 20px;
+        width: 240px;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: -0.500211px;
+        color: #5454D4;
+        margin-left: 100px;
+    }
+    .sell-pro-sarlavha p {
+        margin: 0 auto;
+        width: 90%;
+        font-size: 21px;
+        line-height: 39px;
+        text-align: center;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    #responsive-buzilish-2 {
+        margin-left: -20px!important;
+    }
+    .pro-text {
+        width: 90%;
+    }
+    .pro-list {
+        margin-top: 50px;
+        display: block;
+        margin-left: 40px;
+        padding-bottom: 190px;
+    }
+    .songi-malumot-qism {
+        background: #19191B;
+        margin-top: -230px;
+        padding-top: 150px;
+    }
+    .pro-reklama {
+        margin-left: 50px;
+    }
+    .pro-reklama h1 {
+        width: 90%;
+    }
+    .menu-1 {
+        display: block;
+    }
+    #menu-2 {
+        display: none!important;
+    }
+    #menu-3 {
+        display: flex;
+    }
+    .kichik-reklama-katta {
+        flex-direction: column;
+        padding-top: 150px;
+        margin-top: -200px;
+        margin-left: 40px;
+    }
+    #pro-sell {
+        display: block!important;
+        margin-bottom: 250px;
+        margin-left: 20px;
+    }
+    .odiy-reklama-text h2 {
+        width: 90%;
+    }
+    .odiy-reklama-list {
+        margin-left: 20px;
+    }
+    .odiy-reklama-list p {
+        width: 90%;
+    }
+    .carusel-qism {
+        display: none;
+    }
+    .odiy-reklama-text {
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    #responsiv-buzilish-1 {
+        display: block!important;
+    }
+    .tepa-davomi ul {
+        text-align: center;
+        display: block;
+        margin-top: 80px;
+    }
+    .tepa-qism-text {
+        text-align: center;
+        padding-top: 100px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .tepa-qism-text p {
+        width: 300px;
+        margin-left: 30px;
+    }
+    .tepa-davomi-img img {
+        display: none;
+    }
+    .tepa-qism {
+        display: block;
+    }
+    .pro-sizga-nima-beradi img {
+        position: absolute;
+        margin-left: 0px;
+    }
+    .pro-reklama {
+        text-align: center;
+    }
+    .nav-link-2 {
+        display: block;
+        margin-top: 20px;
+        padding-bottom: 180px;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.437684px;
+        color: rgba(255, 255, 255, 0.7);
+        transition: underline, 1s ease;
+        margin-left: 80px;
+    }
+    .tepa-davomi-img {
+        border-top: 1px solid #EAE9F2;
+        margin-top: 50px;
+        padding-top: 20px;
+    }
+    .odiy-reklama-text p {
+        width: 90%;
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 39px;
+        letter-spacing: -0.656526px;
+        color: #696871;
+    }
+    .tepa-davomi-img img {
+        margin-left: 10px;
+        padding-right: 40px;
+        transition: filter 1s ease;
+        filter: grayscale(100%);
+    }
+    .pro-uchun-malumot {
+        margin-top: 20px;
+        background-image: none;
+        /* background: #F7F7FB;
+        background-image: url(../img/big-img1.png);
+        background-repeat: no-repeat;
+        background-size: 700px;
+        background-position: right center; */
+    }
+    .pro-sizga-nima-beradi div {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .kichik-reklama-katta {
+        margin-top: 0px;
+    }
+    .nav-link-1 {
+        display: inline;
+        padding: 15px 25px;
+        background-color: #F04037;
+        color: #fff;
+        border: 1px solid #C31A12;
+        border-radius: 5px; 
+        transition: background, color 0.5s ease;  
+        margin-left: 0px; 
+    }
+    .eng-paski-4 {
+        padding: 0px 20px;
+        margin-top: 100px;
+        font-weight: bold;
+    }
+    .pro-list li {
+        width: 300px;
+        margin-left: -50px;
+        display: flex;
+    }
+    .tepa-qism img {
+        display: none;
+        margin-top: -200px;
+        left: -150px;
+        max-width: 650px;
+    }
+    .tepa-davomi li {
+        width: 90%;
+        margin-right: 70px;
+    }
+}
